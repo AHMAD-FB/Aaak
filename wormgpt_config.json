@@ -1,0 +1,5 @@
+{
+  "api_key": "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",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "tngtech/deepseek-r1t2-chimera:free"
+}
